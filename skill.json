@@ -1,0 +1,20 @@
+{
+  "name": "genpark-autonomous-errand-action-dispatcher-skill",
+  "version": "1.0.0",
+  "description": "Autonomous life-admin errand action dispatcher with finite state machine transitions and audit trail",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "errand-dispatcher",
+    "life-admin",
+    "state-machine",
+    "autonomous-execution",
+    "task-orchestrator",
+    "messaging-native",
+    "personal-agent",
+    "action-executor",
+    "retry-policy",
+    "python-standard-library",
+    "mcp"
+  ]
+}
