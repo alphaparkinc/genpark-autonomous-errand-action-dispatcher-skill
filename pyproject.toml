@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-autonomous-errand-action-dispatcher-skill"
+version = "1.0.0"
+description = "Autonomous life-admin errand action dispatcher with finite state machine transitions and audit trail"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
