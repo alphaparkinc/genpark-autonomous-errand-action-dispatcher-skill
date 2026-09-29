@@ -1,0 +1,6 @@
+name: genpark-autonomous-errand-action-dispatcher-skill
+version: 1.0.0
+description: Autonomous life-admin errand action dispatcher with finite state machine transitions and audit trail
+command: python
+args:
+  - mcp_server.py
